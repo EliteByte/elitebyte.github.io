@@ -50,11 +50,30 @@
                 <a class="navbar-brand page-scroll" href="#page-top">EliteByte-Mario Figueroa</a>
             </div>
 
+            <audio id="myAudio"
+             <source src="01 Good Morning.mp3"
+                     type='audio/mp3'>
+             Your user agent does not support the HTML5 Audio element.
+            </audio>
+            <script>
+              function aud_play_pause() {
+                  var myAudio = document.getElementById("myAudio");
+                    if (myAudio.paused) {
+                        myAudio.play();
+                      } else {
+                        myAudio.pause();
+                      }
+                    }
+            </script>
+
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a type="button" class="page-scroll" onclick="aud_play_pause()" >Play/Pause</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#services">Services</a>
@@ -81,7 +100,7 @@
             <div class="intro-text">
                 <div class="intro-lead-in">Welcome To My Studio!</div>
                 <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Show Me More</a>
+                <a href="01 Good Morning.mp3" class="page-scroll btn btn-xl">Show Me More</a>
             </div>
         </div>
     </header>
