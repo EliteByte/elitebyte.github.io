@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5000px" height="3000px" viewBox="0 0 5000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Full</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Full-Logo" transform="translate(-1125.000000, 1000.000000)">
+            <g id="Logo">
+                <g>
+                    <text id="Good-Time-Apparel" font-family="LighthousePersonalUse, Lighthouse Personal Use" font-size="1000" font-weight="normal" line-spacing="500" fill="#B00000">
+                        <tspan x="1488.25" y="547.000122">Goo</tspan>
+                        <tspan x="2777.25" y="547.000122" letter-spacing="12.5">d</tspan>
+                        <tspan x="3235.75" y="547.000122" letter-spacing="34.9999994"> </tspan>
+                        <tspan x="3526.75" y="547.000122" letter-spacing="12.5">Ti</tspan>
+                        <tspan x="4080.75" y="547.000122">me</tspan>
+                        <tspan x="3081.4375" y="1450" font-size="375">Apparel</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#AB0000" x="2475" y="625" width="2500" height="25"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
